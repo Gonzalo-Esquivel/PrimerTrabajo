@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(152, 110, 146);
+}
+.titulos{
+    color: white;
+}
+img{
+height: 650px;
+width: 1000px;
+}
